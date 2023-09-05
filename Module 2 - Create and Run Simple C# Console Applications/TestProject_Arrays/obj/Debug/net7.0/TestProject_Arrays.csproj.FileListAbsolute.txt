@@ -1,0 +1,14 @@
+C:\Users\louis\CsharpProjects\TestProject_Arrays\bin\Debug\net7.0\TestProject_Arrays.exe
+C:\Users\louis\CsharpProjects\TestProject_Arrays\bin\Debug\net7.0\TestProject_Arrays.deps.json
+C:\Users\louis\CsharpProjects\TestProject_Arrays\bin\Debug\net7.0\TestProject_Arrays.runtimeconfig.json
+C:\Users\louis\CsharpProjects\TestProject_Arrays\bin\Debug\net7.0\TestProject_Arrays.dll
+C:\Users\louis\CsharpProjects\TestProject_Arrays\bin\Debug\net7.0\TestProject_Arrays.pdb
+C:\Users\louis\CsharpProjects\TestProject_Arrays\obj\Debug\net7.0\TestProject_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\CsharpProjects\TestProject_Arrays\obj\Debug\net7.0\TestProject_Arrays.AssemblyInfoInputs.cache
+C:\Users\louis\CsharpProjects\TestProject_Arrays\obj\Debug\net7.0\TestProject_Arrays.AssemblyInfo.cs
+C:\Users\louis\CsharpProjects\TestProject_Arrays\obj\Debug\net7.0\TestProject_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\louis\CsharpProjects\TestProject_Arrays\obj\Debug\net7.0\TestProject_Arrays.dll
+C:\Users\louis\CsharpProjects\TestProject_Arrays\obj\Debug\net7.0\refint\TestProject_Arrays.dll
+C:\Users\louis\CsharpProjects\TestProject_Arrays\obj\Debug\net7.0\TestProject_Arrays.pdb
+C:\Users\louis\CsharpProjects\TestProject_Arrays\obj\Debug\net7.0\TestProject_Arrays.genruntimeconfig.cache
+C:\Users\louis\CsharpProjects\TestProject_Arrays\obj\Debug\net7.0\ref\TestProject_Arrays.dll

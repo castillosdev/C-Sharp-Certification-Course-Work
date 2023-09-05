@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", "TestProject.csproj", "{EEA2AADC-8C22-4A9D-BC64-C6807A596E4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EldenRingWiki", "..\..\BlazorSites\EldenRingWiki\EldenRingWiki.csproj", "{CC90CF36-6154-410F-94ED-B768CC4737BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEA2AADC-8C22-4A9D-BC64-C6807A596E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA2AADC-8C22-4A9D-BC64-C6807A596E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA2AADC-8C22-4A9D-BC64-C6807A596E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA2AADC-8C22-4A9D-BC64-C6807A596E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC90CF36-6154-410F-94ED-B768CC4737BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC90CF36-6154-410F-94ED-B768CC4737BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC90CF36-6154-410F-94ED-B768CC4737BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC90CF36-6154-410F-94ED-B768CC4737BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD4391A4-D2C1-4293-A1ED-83D452452D0B}
+	EndGlobalSection
+EndGlobal

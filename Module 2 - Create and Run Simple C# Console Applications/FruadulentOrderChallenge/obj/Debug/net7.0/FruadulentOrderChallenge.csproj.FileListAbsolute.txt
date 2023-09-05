@@ -1,0 +1,14 @@
+C:\Users\louis\CsharpProjects\FruadulentOrderChallenge\bin\Debug\net7.0\FruadulentOrderChallenge.exe
+C:\Users\louis\CsharpProjects\FruadulentOrderChallenge\bin\Debug\net7.0\FruadulentOrderChallenge.deps.json
+C:\Users\louis\CsharpProjects\FruadulentOrderChallenge\bin\Debug\net7.0\FruadulentOrderChallenge.runtimeconfig.json
+C:\Users\louis\CsharpProjects\FruadulentOrderChallenge\bin\Debug\net7.0\FruadulentOrderChallenge.dll
+C:\Users\louis\CsharpProjects\FruadulentOrderChallenge\bin\Debug\net7.0\FruadulentOrderChallenge.pdb
+C:\Users\louis\CsharpProjects\FruadulentOrderChallenge\obj\Debug\net7.0\FruadulentOrderChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\CsharpProjects\FruadulentOrderChallenge\obj\Debug\net7.0\FruadulentOrderChallenge.AssemblyInfoInputs.cache
+C:\Users\louis\CsharpProjects\FruadulentOrderChallenge\obj\Debug\net7.0\FruadulentOrderChallenge.AssemblyInfo.cs
+C:\Users\louis\CsharpProjects\FruadulentOrderChallenge\obj\Debug\net7.0\FruadulentOrderChallenge.csproj.CoreCompileInputs.cache
+C:\Users\louis\CsharpProjects\FruadulentOrderChallenge\obj\Debug\net7.0\FruadulentOrderChallenge.dll
+C:\Users\louis\CsharpProjects\FruadulentOrderChallenge\obj\Debug\net7.0\refint\FruadulentOrderChallenge.dll
+C:\Users\louis\CsharpProjects\FruadulentOrderChallenge\obj\Debug\net7.0\FruadulentOrderChallenge.pdb
+C:\Users\louis\CsharpProjects\FruadulentOrderChallenge\obj\Debug\net7.0\FruadulentOrderChallenge.genruntimeconfig.cache
+C:\Users\louis\CsharpProjects\FruadulentOrderChallenge\obj\Debug\net7.0\ref\FruadulentOrderChallenge.dll

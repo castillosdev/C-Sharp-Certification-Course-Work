@@ -1,0 +1,14 @@
+C:\Users\louis\CsharpProjects\ImproveRenewalRateOfSubs\bin\Debug\net7.0\ImproveRenewalRateOfSubs.exe
+C:\Users\louis\CsharpProjects\ImproveRenewalRateOfSubs\bin\Debug\net7.0\ImproveRenewalRateOfSubs.deps.json
+C:\Users\louis\CsharpProjects\ImproveRenewalRateOfSubs\bin\Debug\net7.0\ImproveRenewalRateOfSubs.runtimeconfig.json
+C:\Users\louis\CsharpProjects\ImproveRenewalRateOfSubs\bin\Debug\net7.0\ImproveRenewalRateOfSubs.dll
+C:\Users\louis\CsharpProjects\ImproveRenewalRateOfSubs\bin\Debug\net7.0\ImproveRenewalRateOfSubs.pdb
+C:\Users\louis\CsharpProjects\ImproveRenewalRateOfSubs\obj\Debug\net7.0\ImproveRenewalRateOfSubs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louis\CsharpProjects\ImproveRenewalRateOfSubs\obj\Debug\net7.0\ImproveRenewalRateOfSubs.AssemblyInfoInputs.cache
+C:\Users\louis\CsharpProjects\ImproveRenewalRateOfSubs\obj\Debug\net7.0\ImproveRenewalRateOfSubs.AssemblyInfo.cs
+C:\Users\louis\CsharpProjects\ImproveRenewalRateOfSubs\obj\Debug\net7.0\ImproveRenewalRateOfSubs.csproj.CoreCompileInputs.cache
+C:\Users\louis\CsharpProjects\ImproveRenewalRateOfSubs\obj\Debug\net7.0\ImproveRenewalRateOfSubs.dll
+C:\Users\louis\CsharpProjects\ImproveRenewalRateOfSubs\obj\Debug\net7.0\refint\ImproveRenewalRateOfSubs.dll
+C:\Users\louis\CsharpProjects\ImproveRenewalRateOfSubs\obj\Debug\net7.0\ImproveRenewalRateOfSubs.pdb
+C:\Users\louis\CsharpProjects\ImproveRenewalRateOfSubs\obj\Debug\net7.0\ImproveRenewalRateOfSubs.genruntimeconfig.cache
+C:\Users\louis\CsharpProjects\ImproveRenewalRateOfSubs\obj\Debug\net7.0\ref\ImproveRenewalRateOfSubs.dll
